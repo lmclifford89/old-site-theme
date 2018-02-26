@@ -42,7 +42,7 @@ background-color:blue;
 .col{
    width:32%;
    height:auto;
-   border-radius:15%;
+   border-radius:10%;
    display:inline-block;
    background-color:#F9F5DD;
    margin-left:10px;
@@ -51,6 +51,7 @@ background-color:blue;
    -webkit-box-shadow: -1px 6px 9px -1px rgba(0,0,0,0.75);
    -moz-box-shadow: -1px 6px 9px -1px rgba(0,0,0,0.75);
    box-shadow: -1px 6px 9px -1px rgba(0,0,0,0.75);
+   padding-top:65px;
 }
 
 .col p {
