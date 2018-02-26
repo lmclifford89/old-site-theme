@@ -58,7 +58,7 @@ margin-left:10px;
   -moz-border-radius: 10;
   border-radius: 10px;
   font-family: Courier New;
-  color: #ffffff;
+  /*color: #ffffff;*/
   font-size: 20px;
   background: #657885;
   padding: 10px 15px 10px 15px;
@@ -70,3 +70,7 @@ margin-left:10px;
   text-decoration: none;
 }
 
+.col a {
+ color:white;
+   text-decoration: none;
+}
