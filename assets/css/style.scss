@@ -103,6 +103,7 @@ height: auto;
 
 .col p {
 margin-left:10px;
+   text-align:center;
 }
 
 /*.col button{
@@ -133,7 +134,8 @@ margin-bottom:20px;
 .col a {
   font-family: Courier New;
  font-size: 22px;
- color:#64AF9E;
+ background-color:#64AF9E;
+ color:#fff;
   text-decoration: none;
    margin-left:25%;
    border: 1px solid #64AF9E;
@@ -142,7 +144,7 @@ margin-bottom:20px;
 }
 
 .col a:hover {
-color:  #8ca4b3;
+background-color:  #8ca4b3;
 text-decoration: none;
 }
 
