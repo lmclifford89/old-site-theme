@@ -66,7 +66,39 @@ height: auto;
 }
 
 
+//about-------
+
+#about{
+   float:left;
+}
+
+#col-pic {
+   width:15%;
+   height:190px;
+   background-image:url(lmclifford89.github.io/port-images/about_me.jpg);
+   //background-color:green;
+   //float:left;
+   margin-left:10px;
+   float:left;
+   
+}
+
+#col-about{
+   width: 80%;
+   //float:right;
+   margin-right:-15px;
+   margin-top:50px;
+   float:right;
+   
+}
+
+
 //projects--------
+#projects{
+   clear:both;
+}
+
+
 .col p {
 margin-left:10px;
 }
@@ -112,26 +144,5 @@ color:  #8ca4b3;
 text-decoration: none;
 }
 
-//about-------
-
-#col-pic {
-   width:15%;
-   height:190px;
-   background-image:url(lmclifford89.github.io/port-images/about_me.jpg);
-   //background-color:green;
-   //float:left;
-   margin-left:10px;
-   float:left;
-   
-}
-
-#col-about{
-   width: 80%;
-   //float:right;
-   margin-right:-15px;
-   margin-top:50px;
-   float:right;
-   
-}
 
 
