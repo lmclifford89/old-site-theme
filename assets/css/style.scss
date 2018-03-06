@@ -37,12 +37,14 @@ max-width: 100% !important;
 .main-content h1{
 text-align:center;
    margin-bottom: 20px;
+   both:clear;
 }
 
 .row{
 width:100%;
 height: auto;
 //background-color:blue;
+   both:clear;
 }
 
 .col{
@@ -112,11 +114,20 @@ text-decoration: none;
 //about-------
 
 #col-pic {
-   width:32%;
-   height:150px;
-   color:red;
+   width:15%;
+   height:190px;
+   color:green;
+   float:left;
+   margin-left:10px;
    
 }
 
+#col-about{
+   width: 80%;
+   float:right;
+   margin-right:-15px;
+   margin-top:50px;
+   
+}
 
 
